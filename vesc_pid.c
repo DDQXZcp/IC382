@@ -1,3 +1,6 @@
+//Integrated by Herman TANG Zhiheng
+
+//Hong Kong Polytechnique university
 
 //function fabsf is Defined in header <math.h>
 /*
@@ -8,9 +11,7 @@ abs、fabs、fabsf三个函数都是用来求一个数的绝对值，区别如�
 2）double fabs(double a);   //处理double类型的取绝对值
 
 3）float fabsf(float a);           //处理float类型的取绝对值
-————————————————
-版权声明：本文为CSDN博主「叶晚zd」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/u013925378/article/details/84550977
+
 */
 
 // Need further exploration of dt
